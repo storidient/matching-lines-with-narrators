@@ -1,1 +1,1 @@
-# Matching lines with the narrator in novels based on Coreference Resolution
+# Matching lines with the narrator in novels
